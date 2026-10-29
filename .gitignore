@@ -2,3 +2,14 @@
 /.csv
 amazon_fine_food_review/
 preprocessed_reviews.csv
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Dataset and model files
+models/*.pkl
+models/*.png
